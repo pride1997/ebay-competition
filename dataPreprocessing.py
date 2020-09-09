@@ -14,6 +14,8 @@ dataset = data.rename(columns={0: 'category', 1: 'primary_image_url',2: 'all_ima
 
 dataset['category'].value_counts()
 
+#test
+
 
 
 
